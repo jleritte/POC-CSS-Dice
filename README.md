@@ -1,3 +1,3 @@
 Here is a [Demo][1]
 
-[1]: https://jsfiddle.net/jleritte/7dpze3k8/
+[1]: http://jleritte.github.io/dice
